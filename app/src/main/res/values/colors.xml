@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#add5f8</color>
+    <color name="colorPrimaryDark">#add5f8</color>
+    <color name="colorAccent">#91bde2</color>
+    <color name="blue">#add5f8</color>
+
+
+
+        <item name="purple" type="color">#80b2f1</item>
+        <item name="green" type="color">#4f7ac8</item>
+        <item name="orange" type="color">#35488d</item>
+        <item name="red" type="color">#16193c</item>
+
+
+        <integer-array name="androidcolors">
+            <item>@color/purple</item>
+            <item>@color/green</item>
+            <item>@color/orange</item>
+            <item>@color/red</item>
+        </integer-array>
+
+    </resources>
